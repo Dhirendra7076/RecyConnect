@@ -1,0 +1,12 @@
+{
+  "name": "recyconnect-backend",
+  "version": "1.0.0",
+  "description": "RecyConnect Lambda backend",
+  "dependencies": {
+    "aws-jwt-verify": "^4.0.0",
+    "@aws-sdk/client-s3": "^3.600.0",
+    "@aws-sdk/s3-request-presigner": "^3.600.0",
+    "@aws-sdk/client-ses": "^3.600.0",
+    "mongodb": "^6.5.0"
+  }
+}
